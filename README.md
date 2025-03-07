@@ -1,0 +1,1 @@
+Performed LDA Topic Modeling and Sentiment Analysis for 3 Selected cities using Yelp Public Dataset and established which city is the best to start a new restraunt busienss based on unstrucutred customer reviews.
